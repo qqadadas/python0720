@@ -4,6 +4,10 @@
 @file:students
 @version:1.0
 """
-stu = ['zs','ls']
-for i in stu:
-    print(stu)
+def func():
+    print("使用pycharm提交代码")
+
+func()
+
+
+
